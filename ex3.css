@@ -1,0 +1,30 @@
+p{
+    text-align:justify;
+    font-size:20px;
+    text-indent:80px;
+    border-style:double;
+    border-width:10px;
+    border-top:solid green 2px;
+    padding:20px;
+    margin-right:60px;
+    outline:solid rgb(255, 0, 13) 2px;
+    outline-offset:10px;
+    border-radius:30px;
+    color:rgb(8, 8, 8);
+    float:right;
+    width:45%;
+    box-sizing: border-box; /*to make border box*/
+    height: 600px;
+    width: 600px;
+    box-shadow: 10px 20px 5px black;
+    background-color: rgba(42, 238, 238, 0.616);
+}
+h1{
+    color: rgb(168, 130, 238);
+    font-size: 100px;
+    font-family:sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    border:solid red 2px;
+    background-color: rgb(4, 75, 75);
+}

@@ -1,0 +1,103 @@
+.one{
+    /*background-image:url("images/img1.jpg");/*/
+    display:inline;
+    margin:0%;
+    
+}
+ .ima1 img{
+    height: 640px;
+    width: 100%;
+}
+
+.ima2 img{
+    height: 640px;
+    width: 100%;
+}
+.ima3 img{
+    height: 640px;
+    width: 100%;
+}
+.ima4 img{
+    height: 100;
+    width: 100%;
+}
+.ima5 img{
+    height: 100;
+    width: 100%;
+}
+.ima6 img{
+    height: 100;
+    width: 100%;
+}
+.ima7 img{
+    height: 100;
+    width: 100%;
+}
+
+.ima1 p{
+    box-sizing:border-box;
+    height:75%;
+    width:75%;
+    background-color: white;
+    position: absolute;
+     top: 60px;
+     margin-left: 12%;
+}
+
+.two {
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+    
+
+}
+
+.ima3 p{
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+    
+    top: 60px;
+     margin-left: 12%;
+}
+.ima4 p{
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+
+}
+.ima5 p{
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+
+}
+.ima6 p{
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+
+}
+.ima7 p{
+    box-sizing:border-box;
+    height: 75%;
+    width: 75%;
+    background-color: white;
+    position: absolute;
+
+}
+
+   
+
+
+
